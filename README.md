@@ -13,3 +13,4 @@ Initialized with `npm create-vite@latest`
 
 ## Added Resources
 
+Static site deploy via gh-pages. See [vite docs](https://vite.dev/guide/static-deploy) fore more details.
