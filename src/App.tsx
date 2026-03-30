@@ -52,7 +52,7 @@ function App() {
             <use href="/icons.svg#social-icon"></use>
           </svg>
           <h2>Connect with Jah</h2>
-          <p>Email: <a href="mailto:mail@JahNoah.com">mail@JahNooah.com</a></p>
+          <p>Email: <a href="mailto:mail@JahNoah.com">mail@JahNoah.com</a></p>
         </div>
       </section>
 
