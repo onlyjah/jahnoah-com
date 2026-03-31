@@ -17,12 +17,12 @@ function App() {
             Artist | Technologist | Yogi
           </p>
         </div>
-        <button
+        {/* <button
           className="counter"
           onClick={() => setCount((count) => count + 1)}
         >
           Times clicked: {count}
-        </button>
+        </button> */}
       </section>
 
       <div className="ticks"></div>
@@ -33,7 +33,7 @@ function App() {
             <use href="/icons.svg#documentation-icon"></use>
           </svg>
           <h2>Documentation</h2>
-          <p>Learn more about the Site</p>
+          <p>Learn more about JahNoah</p>
           <ul>
             <li>
               <a href="https://github.com/onlyjah/jah" target="_blank">
