@@ -12,9 +12,9 @@ function App() {
           <img src={heroImg} className="base" width="170" height="179" alt="Bookshelf Image" />
         </div>
         <div>
-          <h1>JahNoah</h1>
+          <h1>I am JahNoah</h1>
           <p>
-            Hi! I am JahNoah.
+            Artist | Technologist | Yogi
           </p>
         </div>
         <button
