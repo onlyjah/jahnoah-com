@@ -9,7 +9,7 @@ function App() {
     <>
       <section id="center">
         <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
+          <img src={heroImg} className="base" width="170" height="179" alt="Bookshelf Image" />
         </div>
         <div>
           <h1>JahNoah</h1>
