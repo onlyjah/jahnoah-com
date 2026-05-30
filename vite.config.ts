@@ -8,5 +8,15 @@ export default defineConfig({
     react(),
     babel({ presets: [reactCompilerPreset()] })
   ],
+  resolve: {
+    tsconfigPaths: true,
+    alias: {
+      src: "/src",
+      assets: "/src/assets",
+      components: "/src/components",
+      lib: "/src/lib",
+      pages: "/src/pages",
+    },
+  },
   base: '/', // default -> placing for explicity
 })
