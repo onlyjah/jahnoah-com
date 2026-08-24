@@ -9,15 +9,17 @@ function Projects() {
       <h1>Projects</h1>
       <br />
       <Text>
-        Page under construction. I'm still wondering how best to share my unpublished work. 
+          Adam's Ribs: https://m.soundcloud.com/kj9e4/adams-ribs
+      </Text>
+      <Text>
+          Left Behind: https://m.soundcloud.com/kj9e4/left-behind
       </Text>
       <br />
       <Text> 
-      There's music, art, and tech projects in the archives waiting to be polished up and put on display! 
-      </Text>
+          There's music, art, and tech projects in the archives! </Text>
       <br />
       <Text>
-        Check back in a few weeks and see what we've got going on here. See ya :-)
+          Check back in a few weeks and see what we've got going on here. See ya :-)
       </Text>
     </div>
   );
