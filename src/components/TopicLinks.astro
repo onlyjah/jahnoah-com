@@ -1,0 +1,4 @@
+---
+import {topicNames,topicFeatures} from '../data/topics';
+---
+<nav class="topic-links" aria-label="Journal topics">{topicNames.map(topic=><a href={`/${topic}/`} aria-current={Astro.url.pathname.split('/')[1]===topic?'page':undefined}>{topicFeatures[topic].label}</a>)}</nav>

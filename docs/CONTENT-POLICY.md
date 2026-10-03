@@ -8,4 +8,4 @@ Do not turn assistant-written drafts, paraphrases, scaffolding copy, or metadata
 
 Current authorized design: terracotta orange and savannah greens; flowers, dragonflies, rainbows; primary audience hiring Jah Noah for development work and public speaking. Commons example photographs are expressly requested until owner photographs are supplied; label them and retain attribution.
 
-The generated essays and narrative website copy from the first release were removed. Journal remains empty. Contact details are not configured. Do not publish invented biography, projects, credentials, talks, testimonials, prices, or availability.
+The generated essays and narrative website copy from the first release were removed. Journal now includes recovered original archive posts and explicitly labeled collections of exact owner excerpts. Contact uses the owner-provided mail@jahnoah.com address. Do not publish invented biography, projects, credentials, talks, testimonials, prices, or availability.
