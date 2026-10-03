@@ -1,6 +1,6 @@
 ---
 title: "Hello world!"
-description: "Jah Noah · January 23, 2024"
+description: "My name is JahNoah! I am so glad you could make it. This is my first, and assuredly not the last, blog post. I figured it would be nice to outline below some of what one may expect to gain from my blog. Be it entertainment or information, and irrespective of the digital medium, dear visitor, I aim to encourage and inspire you to kindly pursue the best version of yourself, appreciate others and the world around you, and make sure to go out and play!"
 date: "2024-01-23T00:23:18+00:00"
 tags: ["yoga", "art", "tech"]
 category: "Field Notes"

@@ -1,6 +1,6 @@
 ---
 title: "Lonely Theologian"
-description: "Jah Noah · September 5, 2024"
+description: "We can drink and indulge in the wisdom of Gods, but what does that mean for our condition?"
 date: "2024-09-05T22:01:08+00:00"
 tags: ["yoga", "art"]
 category: "Art"
