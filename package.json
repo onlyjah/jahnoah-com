@@ -1,1 +1,25 @@
-{"name":"jahnoah","version":"0.1.0","private":true,"type":"module","scripts":{"dev":"astro dev --host 0.0.0.0","build":"astro build","preview":"astro preview"},"dependencies":{"astro":"^7.3.5","@astrojs/react":"latest","react":"latest","react-dom":"latest","tailwindcss":"^4","@tailwindcss/vite":"^4","class-variance-authority":"^0.7.1","clsx":"^2.1.1","tailwind-merge":"^3","@radix-ui/react-dialog":"^1.1.15"}}
+{
+  "name": "jahnoah",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 0.0.0.0",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^7.3.5",
+    "@astrojs/react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^4",
+    "@tailwindcss/vite": "^4",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3",
+    "@radix-ui/react-dialog": "^1.1.15",
+    "@base-ui/react": "1.8.0",
+    "cn": "0.4.0"
+  }
+}
