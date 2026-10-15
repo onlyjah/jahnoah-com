@@ -1,0 +1,131 @@
+[
+  {
+    "title": "global distributed library",
+    "description": "the library system is like you post, hey, I want I have this book and then you can pretty much like access that book just by paying shipping or like you can ship it at cost and you just you pay for whatever shipping is at cost and that's a way of exchanging information and the global distributed library is beyond books. It can be tools, it can be hurricane relief stuff, it can be and then it can expand from there to be a whole community. ",
+    "date": "2026-10-02T00:00:00.000Z",
+    "tags": [
+      "tech"
+    ],
+    "category": "Field Notes",
+    "kind": "Collected excerpts",
+    "sourceUrl": "https://github.com/onlyjah/onlyjah-com/blob/dev/reconcile-cloud-rebuild/src/content/quotes.json",
+    "id": "global-distributed-library",
+    "dateType": "Published",
+    "html": "<p>the library system is like you post, hey, I want I have this book and then you can pretty much like access that book just by paying shipping or like you can ship it at cost and you just you pay for whatever shipping is at cost and that&#8217;s a way of exchanging information and the global distributed library is beyond books. It can be tools, it can be hurricane relief stuff, it can be and then it can expand from there to be a whole community. </p>\n<p>It&#8217;s a working group on um on Only Jah or on Twitter or on um you know and and web hooks can post to these areas so Only Jah&#8217;s information and Only Jah&#8217;s collaborative ecosystem is still relevant on these other platforms because web hooks can push information out there like to your Discord channel and then you can interact with Only Jah through Discord or you can interact with Only Jah through an embedded blogging page on someone else&#8217;s site where they have e-commerce and then Only Jah handles the blogging and the community nature so when they make an account on that site they kind of automatically get an Only Jah account where they can log into that site with Only Jah that&#8217;s why the O-authentications aspect is so important because you should be able to log in to any app using Your Only Jah account</p>\n"
+  },
+  {
+    "title": "Share their light",
+    "description": "OnlyJah.com is a sort of proof of concept that anyone can collaborate with anyone else so long as they have that skill or ability, and make cool things to better their world, their self and others' life experience.",
+    "date": "2026-10-02T00:00:00.000Z",
+    "tags": [
+      "art"
+    ],
+    "category": "Field Notes",
+    "kind": "Collected excerpts",
+    "sourceUrl": "https://github.com/onlyjah/onlyjah-com/blob/dev/reconcile-cloud-rebuild/src/content/quotes.json",
+    "id": "share-their-light",
+    "dateType": "Published",
+    "html": "<p>OnlyJah.com is a sort of proof of concept that anyone can collaborate with anyone else so long as they have that skill or ability, and make cool things to better their world, their self and others&#8217; life experience.</p>\n<p>connecting those with the funds and vision with those with the expertise and passion ;))</p>\n<p>We all have profound wisdom to share, so the more people catch on that they may share their light bright and long, the better.</p>\n"
+  },
+  {
+    "title": "Sovereign solar systems",
+    "description": "all other forge projects have sustainability gradients considered (at least all the ones created using the OJ-SS onlyjah-system-solutions design methodology for sovereign, solar systems. (solar as in sun, light, the Sun, lumos, information, communication, sharing, emmisaryship, heirophany) and systems from business systems to life dynamics to enterprise robotics. ",
+    "date": "2026-10-02T00:00:00.000Z",
+    "tags": [
+      "tech"
+    ],
+    "category": "Field Notes",
+    "kind": "Collected excerpts",
+    "sourceUrl": "https://github.com/onlyjah/onlyjah-com/blob/dev/reconcile-cloud-rebuild/src/content/quotes.json",
+    "id": "sovereign-solar-systems",
+    "dateType": "Published",
+    "html": "<p>all other forge projects have sustainability gradients considered (at least all the ones created using the OJ-SS onlyjah-system-solutions design methodology for sovereign, solar systems. (solar as in sun, light, the Sun, lumos, information, communication, sharing, emmisaryship, heirophany) and systems from business systems to life dynamics to enterprise robotics. </p>\n<p>Right? Versus us having to manipulate and coerce and trick people into making you know it seem like we&#8217;re the best thing ever when we&#8217;re actually not. We we want to steward it so well that we are naturally the best thing ever You know. And and naturally it&#8217;s going to be the thing that I choose to use. </p>\n<p>Everything I do has such a long history of planning, of design, of research and development that I can effectively break down the entire company structure over the course of several hours, maybe even days, and still not be done and still have books and books and things to release and share when it&#8217;s not necessary though I know that there are going to be people who care about this information because they&#8217;re planning a huge project of their own or they&#8217;re trying to navigate having a sovereign stewardship in a realm based on make it make money</p>\n"
+  },
+  {
+    "title": "Your sovereign system",
+    "description": "Your ark this ark it's your sovereign system that you're accessing and this is the only jah operating system. It's a design philosophy as well as maybe even an actual module that is is associated with your ability to browse the ark's catalogs in the ark's information and and what your personally subscribe to. ",
+    "date": "2026-10-02T00:00:00.000Z",
+    "tags": [
+      "tech"
+    ],
+    "category": "Technology",
+    "kind": "Collected excerpts",
+    "sourceUrl": "https://github.com/onlyjah/onlyjah-com/blob/dev/reconcile-cloud-rebuild/src/content/quotes.json",
+    "id": "your-sovereign-system",
+    "dateType": "Published",
+    "html": "<p>Your ark this ark it&#8217;s your sovereign system that you&#8217;re accessing and this is the only jah operating system. It&#8217;s a design philosophy as well as maybe even an actual module that is is associated with your ability to browse the ark&#8217;s catalogs in the ark&#8217;s information and and what your personally subscribe to. </p>\n<p>Because when you log on and you&#8217;re subscribed to um, you know, an SSH session and you&#8217;re subscribed to a web GUI for some dashboard that you have running on some third-party server, then you should be able to see that in your ark dashboard the moment you log on versus someone who&#8217;s subscribed to a person&#8217;s blog feed and I don&#8217;t know, local McDonald order McDonald&#8217;s orders streamed in JSON. They should be able to see that the moment they log in and see their dashboard. </p>\n<p>like the Fractal Engine for, uh for tracking stuff can be its own engine, um- for for like project management inside of Forge it has a Fractal Engine. It it can be its own application that still calls into Forge Fractal Server on the back end but then it&#8217;s its own front end and someone else can deploy their own Forge Fractal back end and then they can use the app and access their back end by putting in their like access keys as opposed to having to use our servers, but they still get the benefit of that software and they can even work within the embedded environment as like a micro component they can put in their information so that they can access Forge from their servers while still using Only Jah&#8217;s other things collectively like realms from the only jah dot com website like those are the things that are planned for the future.</p>\n"
+  },
+  {
+    "title": "Spirit, life, OnlyJah",
+    "description": "OnlyJah is a universe in the sky, powered by Ark, a cloud faring vessel and life seeds incubator.",
+    "date": "2026-10-01T00:00:00.000Z",
+    "tags": [
+      "tech"
+    ],
+    "category": "Technology",
+    "kind": "Collected excerpts",
+    "sourceUrl": "https://github.com/onlyjah/onlyjah-com/blob/dev/reconcile-cloud-rebuild/src/content/quotes.json",
+    "id": "spirit-life-onlyjah",
+    "dateType": "Published",
+    "html": "<p>OnlyJah is a universe in the sky, powered by Ark, a cloud faring vessel and life seeds incubator.</p>\n<p>There is a forge to create and publish posts, zines, videos, music, and other internet-web-streamable file and publication types. Also a community realm to connect and collaborate with others.</p>\n<p>OnlyJah and Ark are like twin stars, they contribute to one anothers framework, flow through, purpose, grand design&#8230;</p>\n<p>I think OnlyJah fueling Forge, Media, and Realm is very fitting, while Ark being that which connects these projects together and enables flowbetween and intercompatability, such that JahNoah.LOL, an organizational tennant of #ark is able to display their site by pulling from all three!</p>\n"
+  },
+  {
+    "title": "Waypoint Dynamics Philosophy",
+    "description": "m using tanstack start atm, really want a completely static frontend with its own repo, and the backend software and whatnot be in another repo, that way certain aspects can be spread across platforms and resources in case one provider is deemed optimal for auth, for ex, whereas another handles data better.",
+    "date": "2026-10-01T00:00:00.000Z",
+    "tags": [
+      "tech"
+    ],
+    "category": "Technology",
+    "kind": "Collected excerpts",
+    "sourceUrl": "https://github.com/onlyjah/onlyjah-com/blob/dev/reconcile-cloud-rebuild/src/content/quotes.json",
+    "id": "waypoint-dynamics-philosophy",
+    "dateType": "Published",
+    "html": "<p>m using tanstack start atm, really want a completely static frontend with its own repo, and the backend software and whatnot be in another repo, that way certain aspects can be spread across platforms and resources in case one provider is deemed optimal for auth, for ex, whereas another handles data better.</p>\n<p>I want to make it free to run by leveraging free tiers and super easy scaling transparency, and a sustainability model so as high ticket clients and mid ticket clients engage there are ways for the platform to be supported and expand over time.</p>\n<p>I have lots of docs about the project here and there, and a way to bring this documentation online detailing features, plans, and engineering/architecture decisions, philosophies, and methodologies, may be great, as it serves as a reference manual for others&#8217; who are designing platforms, sites, etc. particularly those artists, artisans, and creators who sign up to offer their products and services.</p>\n<p>i want to now produce a master document for onlyjah.com&#8217;s present trajectory. it should be browsable. Honestly, I just want to infuse this info into the site itself like docs pages so /docs shows this.</p>\n"
+  },
+  {
+    "title": "Lonely Theologian",
+    "description": "We can drink and indulge in the wisdom of Gods, but what does that mean for our condition?",
+    "date": "2024-09-05T22:01:08.000Z",
+    "tags": [
+      "yoga",
+      "art"
+    ],
+    "category": "Art",
+    "kind": "Archived original",
+    "sourceUrl": "https://web.archive.org/web/20250212032858/https://jahnoah.com/blog/2024/09/05/lonely-theologian/",
+    "id": "lonely-theologian",
+    "dateType": "Published",
+    "html": "<p>We can drink and indulge in the wisdom of Gods, but what does that mean for our condition?</p>\n<p>We can merge with our souls and partake in the breads, but what does that mean for our mission?</p>\n<p>Within, we see both sides of the journey, but what does that mean to the vision?</p>\n<p>Between every pair is an infinite spectrum, where fusion is stronger than fission.</p>\n<p>We wander the scrolls of an old haunted house with love for the cold apparitions.</p>\n<p>The tinkerers’ booth at the end of this hall is the book which ignites all creation.</p>\n<p>Every tinker must master which halls they journey before taking station.</p>\n<p>Thus, the source of creation is both the beginning and end beyond all correlation.</p>\n"
+  },
+  {
+    "title": "Art Requires Patience",
+    "description": "Hmm this is weird… Honestly, these blog posts are not particularly giving. Writing a bunch is summ that I do when inspiration comes thru. Will probs post another blog eventually, but atm I just want to vibe out and create what comes through. Till next time lovelies. Peace and perfection!",
+    "date": "2024-02-23T19:13:32.000Z",
+    "dateType": "Captured",
+    "category": "Art",
+    "tags": [
+      "art"
+    ],
+    "kind": "Archived excerpt",
+    "sourceUrl": "https://web.archive.org/web/20240223191332/https://jahnoah.com/author/jahnoah/",
+    "id": "art-requires-patience",
+    "html": "<p>Hmm this is weird… Honestly, these blog posts are not particularly giving. Writing a bunch is summ that I do when inspiration comes thru. Will probs post another blog eventually, but atm I just want to vibe out and create what comes through. Till next time lovelies. Peace and perfection!</p>\n"
+  },
+  {
+    "title": "Hello world!",
+    "description": "My name is JahNoah! I am so glad you could make it. This is my first, and assuredly not the last, blog post. I figured it would be nice to outline below some of what one may expect to gain from my blog. Be it entertainment or information, and irrespective of the digital medium, dear visitor, I aim to encourage and inspire you to kindly pursue the best version of yourself, appreciate others and the world around you, and make sure to go out and play!",
+    "date": "2024-01-23T00:23:18.000Z",
+    "tags": [
+      "yoga",
+      "art",
+      "tech"
+    ],
+    "category": "Field Notes",
+    "kind": "Archived original",
+    "sourceUrl": "https://web.archive.org/web/20240221041239/https://jahnoah.com/hello-world/",
+    "id": "hello-world",
+    "dateType": "Published",
+    "html": "<p>My name is JahNoah! I am so glad you could make it. This is my first, and assuredly not the last, blog post. I figured it would be nice to outline below some of what one may expect to gain from my blog. Be it entertainment or information, and irrespective of the digital medium, dear visitor, I aim to encourage and inspire you to kindly pursue the best version of yourself, appreciate others and the world around you, and make sure to go out and play!</p>\n\n<h2>Welcome to my website!</h2>\n\n<p>The introduction paragraph contains the abstract essence, but what may one <em>actually</em> come to expect? Well, anything! I know, I know, but, true creative expression has no limits. </p>\n\n<h2>Table of Contents</h2>\n\n<ul>\n<li>Boundaries</li>\n\n\n\n<li>Mediums</li>\n\n\n\n<li>Topics</li>\n\n\n\n<li>Visitors</li>\n\n\n\n<li><em>Zest</em></li>\n</ul>\n\n<h3>Boundaries</h3>\n\n<p>There are a few soft boundaries for this website and its content. For starters, I plan to mainly focus on content suitable for all ages, with PG-13+ material being flagged as such, should the need arise. Should there be any boundaries at all, they would likely be inherited from my everyday life, which is the source of inspiration for this entire site to begin with. Promote peace, no violence, spread truth, love, and goodness, no hateful statements allowed, etc. These are not rules per se, more like guidelines I choose to live by. Have I ever spake an untruth? Yup, though often incidentally. I have surely fibbed before. Have I ever been violent without necessity? Well, I suppose having swatted more than just a few insects in my day should count. The point is, I am being intentional about applying these same guidelines to the content I publish to this site. Though I am not perfect, I strive to be better with every passing moment. I am not attempting to depict myself as someone I am not, or portray some wholly unflawed version of myself the way much of corporate culture would demand. As such, there are no rigid criteria for what this site must or can not be.</p>\n\n<h3>Mediums</h3>\n\n<p>My avenues for creative expression are as varied as my many modes of observation. While my physical body is limited, there is no finity in the ways I am able to observe one tree as it rustles in the breeze. As are infinite the ways I may describe a gust of wind rolling over my neighborhood’s townscape, a ripple of whales in the ocean, or the electrifying sensation of the air dancing across my skin, gleefully coaxing the hairs on my arm to join in the parade. I could paint you a landscape of wiggly greens or a picture of the wind itself, spin words into a bouquet of sound, giving life to otherwise benign vibrations, or tell you about the inspiration the breeze may bring. Perhaps needless to say, there has been quite a lot of wind passing through my area over these recent days. Coupled with my academic training which encourages making maximal use of every detail to stretch what could have been a two sentence summation into fifteen pages of expository, I found it difficult to resist holding back on my word garble. Among other factors, it happens to be well past my bedtime at the moment. Perhaps future me will edit this word garble into something more concise and comprehensible. Perhaps not. To provide the intended bit of information for this section, I plan on using this site to publish blogs, articles and journal entries, photo collages and galleries, videos, music, drawings, handmade crafts, skits or scripted content, and more. Truly, only Jah Knows…</p>\n\n<h3>Topics</h3>\n\n<p>After spending so much time on the prior section, I feel like making this explanation brief, then decompressing from my day with some intentional breathing and cozying into bed. The topics will simply be what ever I happen to be interested in at the time of production. My interests are all over the place. I may pull from an indiscreet range of topics from architecture in the animal kingdom (think ant hills, termite mounds, beaver dams) to human digestive biota to nuclear fusion to the sociology of dance. I do not claim expertise in any scientific capacity. Like any other person, stuff piques my interest and I study using the resources available to me. And if the curiosity is compelling enough, I may put in a little extra effort to procure what I need for further pursuit. I would be happy to receive suggestions on what to study and present next. If I am both interested and inspired, a few hours of rabbit hole excavation is inevitable. Hope you enjoy the surprise of what comes next. Not even I know!</p>\n\n<h3>Visitors</h3>\n\n<p>You are a visitor. Well, you who are writing this is… also a visitor… anyway, I thank you for stopping by. For the time being, until some misguided abuser comes along to mess it up for everybody, the comments are open to all who would like to leave one. Please leave feedback, share your thoughts and/or reflections,  or interact with others by replying to their posts and starting/continuing the conversation. Explore to your heart’s content using the categories, topics and tags attached to each blog. Want to see only one particular medium, such as videos or photographs? Use the filters on the main page, or click a tag to be shown more similar content. You are encouraged to create a free account, with which you may access member exclusive features such as personalized updates, comment management, custom avatars, raffles and special limited offers. More perks are coming soon, so sign up now before you miss out! Membership is both optional and free, however for those who wish to support me with some fiat funds I will have a paid option with a few extra special goodies for ya along as an expression of gratitude for your contribution. Do not feel forced to contribute in this way. Simply stopping by and perusing the site is plenty awesome of you, and leaving an uplifting comment is more than enough to earn my gratitude. Many thanks.</p>\n\n<h3><em>Zest</em></h3>\n\n<p>Unrelated to the topic at hand, I really wanted to conclude with a ‘Z’ word. No need to be concerned as to why. Anyway, I am a pleased native Floridian having found one so citrusy and surprisingly fitting. Just take a look at the definition:</p>\n\n<p>(zĕst)<sup><a id=\"0d21a03f-3d82-4951-9548-fa4882a12c21-link\" href=\"#0d21a03f-3d82-4951-9548-fa4882a12c21\">1</a></sup><em>n.</em></p>\n\n<ul>\n<li>Definition One\n<ul>\n<li>Flavor or piquancy: a spice that lends zest to the sauce.</li>\n\n\n\n<li>Interest or excitement: “A spiral staircase always adds zest to a setting” (P. J. O’Rourke).</li>\n\n\n\n<li>The outermost part of the rind of an orange, lemon, or other citrus fruit, used as flavoring: added a pinch of grated zest.</li>\n</ul>\n</li>\n\n\n\n<li>Definition Two\n<ul>\n<li>Spirited enjoyment; gusto: “At 53 he retains all the heady zest of adolescence” (Kenneth Tynan).</li>\n</ul>\n</li>\n</ul>\n\n<ol><li id=\"0d21a03f-3d82-4951-9548-fa4882a12c21\"><a href=\"https://www.thefreedictionary.com/zest\">https://www.thefreedictionary.com/zest</a> <a href=\"#0d21a03f-3d82-4951-9548-fa4882a12c21-link\">↩︎</a></li></ol>\n\n<p>The word, as does the flavor, contains sparks of excitement and curiosity both in sound and meaning. I feel that zest is not something to be incorporated as a premeditated feature, but is more of a result of authenticity and passion being the driving force behind the production of any content I choose to upload here. May you be well on your journey, traveler. Please do come again. Till next time!</p>\n"
+  }
+]
