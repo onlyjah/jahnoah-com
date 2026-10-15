@@ -18,12 +18,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+      - uses: pnpm/action-setup@v6
       - uses: actions/setup-node@v6
         with:
-          node-version: '22'
-          cache: npm
-      - run: npm ci
-      - run: npm run build
+          node-version: '24'
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile --ignore-scripts
+      - run: pnpm build
       - run: python3 scripts/verify-static.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4

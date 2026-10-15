@@ -1,7 +1,9 @@
 node_modules/
 dist/
-.astro/
-.env
-.env.*
+.output/
+.tanstack/
+.env*
 !.env.example
-.sites-runtime/
+*.tsbuildinfo
+
+.astro/

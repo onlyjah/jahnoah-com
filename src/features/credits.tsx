@@ -1,0 +1,10 @@
+import Connect from '../components/Connect'
+import { JournalList, TopicLinks } from '../components/journal'
+const photos=[
+{id:'flowers',title:'Meadow of wildflowers, Oberauroff',author:'Gerda Arendt',url:'https://commons.wikimedia.org/wiki/File:Meadow_of_wildflowers,_Oberauroff.jpg',license:'CC0 1.0',licenseUrl:'https://creativecommons.org/publicdomain/zero/1.0/'},
+{id:'development',title:'Laptop coding programs',author:'Tirza van Dijk',url:'https://commons.wikimedia.org/wiki/File:Laptop_coding_programs_(Unsplash).jpg',license:'CC0 1.0',licenseUrl:'https://creativecommons.org/publicdomain/zero/1.0/'},
+{id:'speaking',title:'Public Speaking In Front of Large Crowds',author:'delegateconnectimages',url:'https://commons.wikimedia.org/wiki/File:Public_Speaking_In_Front_of_Large_Crowds.jpg',license:'CC BY 2.0',licenseUrl:'https://creativecommons.org/licenses/by/2.0/'},
+{id:'dragonfly',title:'Dragonfly (22086002592)',author:'Rob Mitchell',url:'https://commons.wikimedia.org/wiki/File:Dragonfly_(22086002592).jpg',license:'CC0 1.0',licenseUrl:'https://creativecommons.org/publicdomain/zero/1.0/'},
+{id:'rainbow',title:'Rainbow scene image',author:'Kanimozhi Vennila',url:'https://commons.wikimedia.org/wiki/File:Rainbow_scene_image.jpg',license:'CC0 1.0',licenseUrl:'https://creativecommons.org/publicdomain/zero/1.0/'}];
+
+export default function Page(){return <><article className="article"><h1>Photo credits</h1><p>Example photographs. People pictured are not Jah Noah.</p>{photos.map(photo=><section id={photo.id} className="credit"><h2>{photo.title}</h2><p>{photo.author} · <a href={photo.licenseUrl}>{photo.license}</a> · <a href={photo.url}>Wikimedia Commons source</a></p>{photo.id==='speaking'&&<p><a href="https://www.delegateconnect.co/">Delegate Connect <span className="link-kind">External ↗</span></a></p>}<p className="small">Resized for display; cropped by page layout.</p></section>)}</article></>}

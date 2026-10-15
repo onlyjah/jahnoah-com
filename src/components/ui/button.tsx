@@ -1,2 +1,5 @@
-import * as React from 'react';import { cva,type VariantProps } from 'class-variance-authority';import {cn} from '../../lib/utils';
-const buttonVariants=cva('ui-button',{variants:{variant:{default:'',outline:'ui-button-outline'}} ,defaultVariants:{variant:'default'}});export function Button({className,variant,...props}:React.ComponentProps<'button'>&VariantProps<typeof buttonVariants>){return <button className={cn(buttonVariants({variant,className}))} {...props}/>}
+import type { ComponentProps } from 'react'
+import { Button as SharedButton } from '@onlyjah/ui/ui/button'
+export function Button({className='',variant='default',...props}:ComponentProps<typeof SharedButton>){
+ return <SharedButton {...props} variant={variant} className={`ui-button ${variant==='outline'?'ui-button-outline':''} ${className}`} />
+}
